@@ -1,1 +1,1 @@
-# SpringDataJPS
+# SpringDataJPA
